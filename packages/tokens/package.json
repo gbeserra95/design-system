@@ -1,5 +1,5 @@
 {
-	"name": "@ignite-ui/tokens",
+	"name": "@gabriel-beserra-design-system-ui/tokens",
 	"version": "1.0.0",
 	"description": "",
 	"main": "./dist/index.js",
@@ -15,8 +15,8 @@
 	"author": "",
 	"license": "MIT",
 	"devDependencies": {
-		"@ignite-ui/ts-config": "*",
-		"@ignite-ui/eslint-config": "*",
+		"@gabriel-beserra-design-system-ui/ts-config": "*",
+		"@gabriel-beserra-design-system-ui/eslint-config": "*",
 		"tsup": "^6.3.0",
 		"typescript": "^4.8.4"
 	}

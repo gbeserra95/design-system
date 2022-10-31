@@ -1,5 +1,5 @@
 {
-	"name": "@ignite-ui/react",
+	"name": "@gabriel-beserra-design-system-ui/react",
 	"version": "1.0.0",
 	"description": "",
 	"main": "./dist/index.js",
@@ -15,9 +15,9 @@
 	"author": "",
 	"license": "MIT",
 	"devDependencies": {
-		"@ignite-ui/eslint-config": "*",
-		"@ignite-ui/tokens": "*",
-		"@ignite-ui/ts-config": "*",
+		"@gabriel-beserra-design-system-ui/eslint-config": "*",
+		"@gabriel-beserra-design-system-ui/tokens": "*",
+		"@gabriel-beserra-design-system-ui/ts-config": "*",
 		"@types/react": "^18.0.24",
 		"@types/react-dom": "^18.0.8",
 		"react": "^18.2.0",
