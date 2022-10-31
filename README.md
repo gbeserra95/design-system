@@ -1,4 +1,4 @@
- Components
+ ## Components
 
 - [ X ] Button
 - [ X ] Heading
