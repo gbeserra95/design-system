@@ -1,0 +1,2 @@
+import{A as r}from"./index.892f4fcb.js";import"./index.acd4b47c.js";import"./iframe.2b57a535.js";import"./index.e1d8ff3b.js";import"./jsx-runtime.c99ea859.js";const i={title:"Data display/Avatar",component:r,args:{src:"https://github.com/gbeserra95.png",alt:"Gabriel Beserra"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.f60d21f5.js.map
