@@ -1,0 +1,7 @@
+# @gabriel-beserra-design-system-ui/eslint-config
+
+## 2.0.0
+
+### Major Changes
+
+- 20187ac: Initial package
